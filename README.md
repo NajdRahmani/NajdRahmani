@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Najd Rahmani 👋
 
-<!--
-**NajdRahmani/NajdRahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Final-Year Data Science Engineering Student at ESPRIT
+ Interested in Artificial Intelligence, Machine Learning
+   and Generative AI.
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Machine Learning & Deep Learning
+- Generative AI, LLMs & RAG
+- Multimodal AI
+- AI Agents and Intelligent Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- Recipe-Helper — Multimodal AI recipe assistant
+  using RAG, Qdrant, n8n and LLMs.
+- ARDHI — AI-powered agricultural intelligence
+  platform using Python, PyTorch and FastAPI.
+
+### Technologies
+Python · PyTorch · Scikit-learn · FastAPI
+LLMs · RAG · Qdrant · Docker · SQL · Git
+
+📍 Tunisia
+🎯 Seeking a PFE Internship – January 2027
